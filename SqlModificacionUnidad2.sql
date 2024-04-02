@@ -1,3 +1,6 @@
+
+--Querys para modificar tablas.
+
 ALTER TABLE caninos
 DROP COLUMN canino_raza;
 

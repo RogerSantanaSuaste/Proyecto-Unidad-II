@@ -1,3 +1,6 @@
+
+-- Querys para eliminar las tablas
+
 DROP TABLE caninos;
 
 DROP TABLE citas;

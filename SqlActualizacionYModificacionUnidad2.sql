@@ -1,3 +1,6 @@
+
+--Querys de modificacion de registros
+
 UPDATE caninos
 SET canino_nombre = 'Mike'
 WHERE canino_id = 2;

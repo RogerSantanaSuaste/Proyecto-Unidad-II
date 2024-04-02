@@ -1,3 +1,5 @@
+-- Querys para insertar datos a la base de datos.
+
 insert into caninos (canino_id, canino_nombre, canino_raza, canino_edad) values (1, 'Bartholomeo', 'Spermophilus armatus', 2);
 insert into caninos (canino_id, canino_nombre, canino_raza, canino_edad) values (2, 'Maddalena', 'Notechis semmiannulatus', 13);
 insert into caninos (canino_id, canino_nombre, canino_raza, canino_edad) values (3, 'Ewen', 'unavailable', 5);
@@ -53,3 +55,4 @@ insert into citas (citas_id, cita_hora_entrada, cita_hora_salida) values (8, '6/
 insert into citas (citas_id, cita_hora_entrada, cita_hora_salida) values (9, '9/13/2023', '10/17/2023');
 insert into citas (citas_id, cita_hora_entrada, cita_hora_salida) values (10, '10/22/2023', '8/7/2023');
 
+--pdst: usando mockaroo
